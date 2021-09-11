@@ -2,7 +2,7 @@
 
 #HTML part:
 
-use <div> tag for different section(aside and section)
+use "div" tag for different section(aside and section)
   
 aside:-aside used for define content one side of the whole container which created by div.
   
